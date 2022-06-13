@@ -1,0 +1,16 @@
+C:\Users\Uzivatel\source\repos\Miata\Miata\bin\Debug\net5.0\Miata.exe
+C:\Users\Uzivatel\source\repos\Miata\Miata\bin\Debug\net5.0\Miata.deps.json
+C:\Users\Uzivatel\source\repos\Miata\Miata\bin\Debug\net5.0\Miata.runtimeconfig.json
+C:\Users\Uzivatel\source\repos\Miata\Miata\bin\Debug\net5.0\Miata.runtimeconfig.dev.json
+C:\Users\Uzivatel\source\repos\Miata\Miata\bin\Debug\net5.0\Miata.dll
+C:\Users\Uzivatel\source\repos\Miata\Miata\bin\Debug\net5.0\ref\Miata.dll
+C:\Users\Uzivatel\source\repos\Miata\Miata\bin\Debug\net5.0\Miata.pdb
+C:\Users\Uzivatel\source\repos\Miata\Miata\obj\Debug\net5.0\Miata.csproj.AssemblyReference.cache
+C:\Users\Uzivatel\source\repos\Miata\Miata\obj\Debug\net5.0\Miata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzivatel\source\repos\Miata\Miata\obj\Debug\net5.0\Miata.AssemblyInfoInputs.cache
+C:\Users\Uzivatel\source\repos\Miata\Miata\obj\Debug\net5.0\Miata.AssemblyInfo.cs
+C:\Users\Uzivatel\source\repos\Miata\Miata\obj\Debug\net5.0\Miata.csproj.CoreCompileInputs.cache
+C:\Users\Uzivatel\source\repos\Miata\Miata\obj\Debug\net5.0\Miata.dll
+C:\Users\Uzivatel\source\repos\Miata\Miata\obj\Debug\net5.0\ref\Miata.dll
+C:\Users\Uzivatel\source\repos\Miata\Miata\obj\Debug\net5.0\Miata.pdb
+C:\Users\Uzivatel\source\repos\Miata\Miata\obj\Debug\net5.0\Miata.genruntimeconfig.cache
